@@ -70,6 +70,29 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "title",
+      "price": "500",
+      "id": 10
+    },
+    {
+      "title": "bfbsdf",
+      "category": "Pant",
+      "price": "500",
+      "id": 11
+    },
+    {
+      "title": "fbdb",
+      "category": "Pant",
+      "price": "600",
+      "id": 12
+    },
+    {
+      "title": "fbdb",
+      "category": "Pant",
+      "price": "600",
+      "id": 13
     }
   ]
 }
